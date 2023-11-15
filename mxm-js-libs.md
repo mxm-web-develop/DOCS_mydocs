@@ -17,3 +17,5 @@ title: mxm-js-libs
 |rematch | basic | 4 | `yarn add @rematch/core` | https://rematchjs.org/docs/getting-started/installation
 |react-query| basic| 4 |`yarn add react-query`|https://tanstack.com/query/v3/docs/react/installation|
 |dayjs | basic | 3 | `yarn add dayjs ` | https://day.js.org/docs/en/installation/typescript|
+|radix-primitives| ui | 5 | read docment | https://www.radix-ui.com/primitives/docs/components/scroll-area
+
